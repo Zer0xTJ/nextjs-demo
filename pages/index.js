@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <main>
-        <h1>NextJS Test Demo App</h1>
+        <h1>NextJS Test Demo App (Edited)</h1>
         <p>
           Twitter: <a href="https://twitter.com/zer0xtj">@Zer0xTJ</a>
         </p>
